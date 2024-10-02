@@ -12,7 +12,6 @@
     - :keyboard: I’m currently learning Programing. </br>
     - :speech_balloon: Ask me about anything.</br>
     - :mailbox: How to reach me: <a href="x.com/scroooling">My Contact!</a>  </br>
-
     - :game_die: Drawing and writing are part of me. </br>
 <p>
  
